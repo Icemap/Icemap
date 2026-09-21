@@ -33,8 +33,7 @@ I bridge the gap between **Distributed Systems** and **Neuro-Symbolic AI**. My g
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icemap&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" alt="Icemap's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icemap&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="160" alt="Icemap's Top Langs" />
+  <a href="https://ghsphere.com/u/icemap?ref=badge"><img src="https://ghsphere.com/api/card/icemap?theme=dark&variant=path" alt="GitHub Roast" width="600" /></a>
 </div>
 
 ---
